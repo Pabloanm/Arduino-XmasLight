@@ -1,2 +1,2 @@
 # Arduino-XmasLight
-Simple Christmas led light with arduino
+This is a simple project that allows you to create some cool light effects with simple LEDs strips.
